@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm truecolor1021</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 <p align="center">
-   Highly skilled and motivated Full Stack Web Developer with 6+ years of experience in designing, developing, and deploying responsive websites and web applications. Proficient in both frontend and backend technologies, with a proven track record of delivering high-quality code and scalable solutions. Passionate about user-centered design, performance optimization, and clean coding practices.
+   Highly skilled and motivated Full Stack Web Developer with 8+ years of experience in designing, developing, and deploying responsive websites and web applications. Proficient in both frontend and backend technologies, with a proven track record of delivering high-quality code and scalable solutions. Passionate about user-centered design, performance optimization, and clean coding practices.
 </p>
 
 ### Frontend Development
