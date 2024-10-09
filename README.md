@@ -36,7 +36,7 @@
 - Python
 - C
 - C++
-- 📫 How to reach me **jamespk0309@gmail.com**
+- 📫 How to reach me **true.color1021@gmail.com**
 
 </p>
 
